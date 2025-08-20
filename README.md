@@ -1,4 +1,4 @@
-# Hi, I'm Nigel Tavaguta 👨‍💻
+# Hi, I'm Nigel Tavaguta
 
 <div align="center">
   
