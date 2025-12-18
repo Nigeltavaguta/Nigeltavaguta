@@ -38,7 +38,7 @@
 ![Nigel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nigeltavaguta&show_icons=true&theme=radical&border_color=67e8f9&bg_color=0D1117&title_color=67E8F9&icon_color=67E8F9)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nigeltavaguta&layout=compact&theme=radical&border_color=67e8f9&bg_color=0D1117&title_color=67E8F9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nigeltavaguta&theme=radical&border=67E8F9&background=0D1117&ring=67E8F9&fire=67E8F9&currStreakNum=67E8F9)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nigeltavaguta&theme=radical)
 
 </div>
 
